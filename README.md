@@ -22,7 +22,7 @@ This project was built using the following technologies:
 - **CSS** 🎨: For styling and layout design.
 - **JavaScript** 🧠: For interactivity and game logic.
 
-This project is an application of Jonas Schmedtmann's amazing [JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy. If you're interested in mastering JavaScript, check out his course! 🎓
+This project is an application of Jonas Schmedtmann's amazing [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy. If you're interested in mastering JavaScript, check out his course! 🎓
 
 ---
 
