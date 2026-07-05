@@ -3,7 +3,7 @@
 Welcome to the **Guess My Number** game! 🌟 This is a simple yet engaging game where you can test your guessing skills and see how quickly you can find the secret number. Challenge yourself, play with friends, and have fun! 🕹️
 
 ### 🌐 Live Demo
-👉 Check out the game here: [Guess My Number](https://guessmynumber-kariman.netlify.app/) 🌍
+👉 Check out the game here: [Guess My Number](https://guess-my-number-kariman.vercel.app/) 🌍
 
 ## 🧐 How It Works
 1. **Goal:** Guess the secret number between 1 and 20.
